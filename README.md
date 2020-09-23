@@ -6,7 +6,7 @@ Hi there 👋
 </b>
 </font>
 <br>
-I'm <a href="https://github.com/JohannC-dev">Johann</a>, <b>nodejs developer</b> from France. I love programming. Since 2 years, I'm constantly learning different programming languages like <b>Javascript</b>, <b>HTML</b>, <b>PHP</b>...
+I'm <a href="https://github.com/JohannC-dev">Johann</a>, <b>JavaScript developer</b> from France. I love programming. Since 2 years, I'm constantly learning different programming languages like <b>Javascript</b>, <b>HTML</b>, <b>PHP</b>...
 
 ___
 
