@@ -30,8 +30,8 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrk-dev&repo=FrenchAlt" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johannc-dev&repo=Zyrk-Version" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=JohannC-dev&repo=FrenchAlt" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrk-dev&repo=Zyrk-Version" />
 </p>
 
 ___
