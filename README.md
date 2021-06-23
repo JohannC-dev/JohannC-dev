@@ -14,7 +14,7 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="http://img.shields.io/badge/Discord-%40Johann%230140-7289DA?style=for-the-badge" />
+	<img src="http://img.shields.io/badge/Discord-%40Johann%231111-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/Twiter-%40NeverSayL-1DA1F2?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
