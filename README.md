@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JohannC-dev&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JohannC-dev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <font size="10">
 <b>
 Hi there 👋
@@ -30,8 +30,8 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=JohannC-dev&repo=FrenchAlt" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrk-dev&repo=Zyrk-Version" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=JohannC-dev&repo=FrenchAlt&theme=blueberry" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrk-dev&repo=Zyrk-Version&theme=blueberry" />
 </p>
 
 ___
