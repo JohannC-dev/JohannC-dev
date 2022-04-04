@@ -6,7 +6,7 @@ Hi there 👋
 </b>
 </font>
 <br>
-I'm <a href="https://github.com/JohannC-dev">Johann</a>, <b>JavaScript developer</b> from France. I love programming. Since 2 years, I'm constantly learning different programming languages like <b>Javascript</b>, <b>HTML</b>, <b>PHP</b>...
+I'm <a href="https://github.com/JohannC-dev">Johann</a>, <b>JavaScript developer</b> from France. I love programming. Since 3 years, I'm constantly learning different programming languages like <b>React</b>, <b>Vue.js</b>, <b>Python</b>...
 
 ___
 
@@ -14,11 +14,11 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="http://img.shields.io/badge/Discord-%40Johann%231111-7289DA?style=for-the-badge" />
+	<img src="http://img.shields.io/badge/Discord-%40Johann%234415-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/Twiter-%40NeverSayL-1DA1F2?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Instagram-%40NeverSayLs-E1306C?style=for-the-badge" />
+	<img src="http://img.shields.io/badge/Instagram-%40johann.c___-E1306C?style=for-the-badge" />
 	<br>
 	<br>
 	<br>
@@ -30,8 +30,8 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=JohannC-dev&repo=FrenchAlt&theme=blueberry" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrk-dev&repo=Zyrk-Version&theme=blueberry" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Api&theme=blueberry" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Player&theme=blueberry" />
 </p>
 
 ___
@@ -52,7 +52,7 @@ ___
 	<img src="https://equestsolutions.net/wp-content/uploads/2014/08/php-logo.jpg" width="128" />
 	<br>
 	<br>
-	<img src="https://fr.nuxtjs.org/logos/nuxt-emoji.png" />
+	<img src="https://nuxtjs.org/design-kit/colored-logo.png" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://vuejs.org/images/logo.png" width="128" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
