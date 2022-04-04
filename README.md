@@ -30,8 +30,8 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Api&theme=blueberry" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Player&theme=blueberry" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Api&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Player&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
 ___
