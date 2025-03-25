@@ -1,12 +1,12 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JohannC-dev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JohannC-dev" />
 <font size="10">
 <b>
 Hi there 👋
 </b>
 </font>
 <br>
-I'm <a href="https://github.com/JohannC-dev">Johann</a>, <b>JavaScript developer</b> from France. I love programming. Since 3 years, I'm constantly learning different programming languages like <b>React</b>, <b>Vue.js</b>, <b>Python</b>...
+I'm <a href="https://github.com/JohannC-dev">Johann</a>, <b>JavaScript developer</b> from France. I love programming. Since 7 years, I'm constantly learning different programming languages like <b>React</b>, <b>Next.js</b>, <b>Tailwind</b>, <b>Python</b>...
 
 ___
 
@@ -14,24 +14,11 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="http://img.shields.io/badge/Discord-%40Johann%234415-7289DA?style=for-the-badge" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Twiter-%40NeverSayL-1DA1F2?style=for-the-badge" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/Instagram-%40johann.c___-E1306C?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Discord-%40neverslayed-7289DA?style=for-the-badge"/>
 	<br>
 	<br>
 	<br>
-	<font size="10">
-		<b>
-			My projects
-		</b>
-	</font>
-	<br>
-	<br>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Api&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeph-dev&repo=ZEPH-Player&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+	
 </p>
 
 ___
@@ -45,18 +32,19 @@ ___
 </p>
 
 <p align="center">
-	<img src="https://www.split.io/wp-content/uploads/2020/03/javascript-logo.png" width="128"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://equestsolutions.net/wp-content/uploads/2014/08/php-logo.jpg" width="128" />
 	<br>
 	<br>
-	<img src="https://nuxtjs.org/design-kit/colored-logo.png" />
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="128" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://vuejs.org/images/logo.png" width="128" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
+      <img alt="Next.js logo" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="128">
+    </picture>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://gridsome.org/logos/only-logo.svg" width="128" />
+	<img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" width="128" />
 	<br><br>
 	<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="128" />
 </p>
